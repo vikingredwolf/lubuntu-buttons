@@ -1,0 +1,89 @@
+
+
+.clear {
+	clear: both;
+}
+
+#page .container #secondary .widget h3.widget-title, #page .container #secondary .widget h1.widget-title {
+	border-bottom: none;
+}
+
+.horizontal {
+	margin-left: -20px;
+}
+
+.xbox {
+    margin: 10px auto;
+    position: relative;
+ 	text-align:center;
+}
+
+.xbut {
+	text-align: center;
+	font-family: Ubuntu, Cantarell, Sans, Arial;
+	font-size: 1em;
+	line-height: 48px;
+	display: inline-block;
+	border-radius: 24px 24px 24px 24px;
+	border: 1px solid white;
+	background-color: #0066BB;
+	height:	48px;
+	margin-top: 8px;
+        margin-left: 4px;
+        margin-right: 4px;
+	color: white;
+}
+
+.xbutfull {
+	float: left;
+	width: 208px;
+	height:	48px;
+}
+
+.xbutfull:hover {
+	border-radius: 24px 24px 24px 24px;
+	background-color: #008AFF;
+}
+
+.xbutleft {
+	float: left;
+	width: 160px;
+	border-right: 1px solid white;
+	height:	48px;
+}
+
+.xbutleft:hover {
+	border-radius: 24px 0 0 24px;
+	background-color: #008AFF;
+}
+
+.xbutright {
+	float: right;
+	width: 48px;
+	height:	48px;
+}
+
+.xbutright:hover {
+	border-radius: 0 24px 24px 0;
+	background-color: #008AFF;
+}
+
+.xbut a { color: white; }
+
+.xbutleft a {
+	padding: 12px;
+	height: 48px;
+	text-decoration: none;
+}
+
+.xbutright a {
+	padding: 12px;
+	height: 48px;
+	text-decoration: none;
+}
+
+.xbutfull a {
+	padding: 12px;
+	height: 48px;
+	text-decoration: none;
+}
