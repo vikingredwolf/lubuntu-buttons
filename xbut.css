@@ -13,8 +13,8 @@
 }
 
 .xbox {
-	margin: 10px auto;
-	position: relative;
+    margin: 10px auto;
+    position: relative;
  	text-align:center;
 }
 
@@ -22,12 +22,12 @@
 	text-align: center;
 	font-family: Ubuntu, Cantarell, Sans, Arial;
 	font-size: 1em;
-	line-height: 48px;
+	line-height: 46px;
 	display: inline-block;
 	border-radius: 24px 24px 24px 24px;
 	border: 2px solid white;
 	background-color: #0066BB;
-	height:	48px;
+	height: 46px;
 	margin-top: 8px;
         margin-left: 4px;
         margin-right: 4px;
@@ -37,7 +37,7 @@
 .xbutfull {
 	float: left;
 	width: 208px;
-	height:	48px;
+	height: 46px;
 }
 
 .xbutfull:hover {
@@ -49,42 +49,44 @@
 	float: left;
 	width: 160px;
 	border-right: 1px solid white;
-	height:	48px;
+	height: 46px;
 }
 
 .xbutleft:hover {
 	border-radius: 24px 0 0 24px;
 	background-color: #008AFF;
 	border-right: 1px solid white;
+	height: 46px;
 }
 
 .xbutright {
 	float: right;
 	width: 48px;
-	height:	48px;
+	height: 46px;
 }
 
 .xbutright:hover {
 	border-radius: 0 24px 24px 0;
 	background-color: #008AFF;
+	height: 46px;
 }
 
 .xbut a { color: white; }
 
 .xbutleft a {
 	padding: 12px;
-	height: 48px;
+	height: 46px;
 	text-decoration: none;
 }
 
 .xbutright a {
 	padding: 12px;
-	height: 48px;
+	height: 46px;
 	text-decoration: none;
 }
 
 .xbutfull a {
 	padding: 12px;
-	height: 48px;
+	height: 46px;
 	text-decoration: none;
 }
