@@ -13,8 +13,8 @@
 }
 
 .xbox {
-    margin: 10px auto;
-    position: relative;
+	margin: 10px auto;
+	position: relative;
  	text-align:center;
 }
 
@@ -25,7 +25,7 @@
 	line-height: 48px;
 	display: inline-block;
 	border-radius: 24px 24px 24px 24px;
-	border: 1px solid white;
+	border: 2px solid white;
 	background-color: #0066BB;
 	height:	48px;
 	margin-top: 8px;
@@ -55,6 +55,7 @@
 .xbutleft:hover {
 	border-radius: 24px 0 0 24px;
 	background-color: #008AFF;
+	border-right: 1px solid white;
 }
 
 .xbutright {
